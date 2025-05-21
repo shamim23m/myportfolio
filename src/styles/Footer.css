@@ -1,0 +1,12 @@
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer .socials a {
+  color: #bbb;
+  margin: 0 10px;
+  text-decoration: none;
+}

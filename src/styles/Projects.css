@@ -1,0 +1,24 @@
+.projects {
+  background-color: #f9f9f9;
+  padding: 40px;
+  text-align: center;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.project-card {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+  width: 250px;
+  border-radius: 8px;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
